@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Ignorar archivos con credenciales
 *.env
+=======
+*env
+>>>>>>> 07406b5 (Agregar .gitignore para ignorar archivos sensibles)
 *.secret
 .cache
 __pycache__/
