@@ -1,0 +1,5 @@
+# Ignorar archivos con credenciales
+*.env
+*.secret
+.cache
+__pycache__/
